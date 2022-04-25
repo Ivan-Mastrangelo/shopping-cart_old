@@ -1,6 +1,6 @@
 # Shopping-cart
 
-Esse é foi último projeto que desenvolvi para o módulo de fundamentos, no curso de desenvolvimento de software, da escola Trybe. Nele foi desenvolvido um carrinho de compras totalmente dinâmico, consumindo dados diretamente de uma API - sigla em inglês para Application Programming Interface. Uma API é um ponto de contato na internet com determinado serviço. Através de requisições HTTP a essa API é possível interagir com ela da forma como quem a criou e planejou. Aqui foi usada a API do Mercado Livre para busca de produtos à venda. 
+Esse foi último projeto que desenvolvi para o módulo de fundamentos, no curso de desenvolvimento de software, da escola Trybe. Nele foi desenvolvido um carrinho de compras totalmente dinâmico, consumindo dados diretamente de uma API - sigla em inglês para Application Programming Interface. Uma API é um ponto de contato na internet com determinado serviço. Através de requisições HTTP a essa API é possível interagir com ela da forma como quem a criou e planejou. Aqui foi usada a API do Mercado Livre para busca de produtos à venda. 
 
 ## Habilidades desenvolvidas
 
@@ -23,5 +23,5 @@ Instalar as dependências do projeto:
 ```
   npm install
   ```
-E rodá-lo em seu browser, caso utilize o VScode, clique em Go Live.
+À partir daí basta abrir a pasta e executar o arquivo index.html, ou , caso utilize o VScode, clique em Go Live.
 
