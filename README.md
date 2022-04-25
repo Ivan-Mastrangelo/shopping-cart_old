@@ -25,3 +25,4 @@ Instalar as dependências do projeto:
   ```
 À partir daí basta abrir a pasta e executar o arquivo index.html, ou , caso utilize o VScode, clique em Go Live.
 
+---
